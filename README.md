@@ -25,17 +25,20 @@ WanderLust is a full-stack travel listing application built with **Node.js**, **
    ```bash
    git clone https://github.com/aman-2904/WanderLust.git
    cd WanderLust
-2. Install dependencies
+2. **Install dependencies**
+   ```bash
    npm install
 
-3. Start the Server
+3. **Start the Server**
+   ```bash
    npm start
 
-4. Visit the app
+4. **Visit the app**
+   ```bash
    Open your browser at http://localhost:8080/listings
 
-📁 Project Structure
-
+5. 📁 **Project Structure**
+```bash
 WanderLust/
 ├── .gitignore
 ├── README.md
